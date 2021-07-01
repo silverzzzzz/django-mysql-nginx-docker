@@ -1,0 +1,7 @@
+Django==3.2.1
+uwsgi==2.0.19.1
+mysqlclient==2.0.3
+django-allauth==0.44.0
+cryptography==3.4.7
+django-markdownx==3.0.1
+djangorestframework==3.12.4
